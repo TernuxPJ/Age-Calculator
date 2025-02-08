@@ -54,7 +54,7 @@ Press Exit to close the application.
 
 **Developers:**
 
-👨‍💻 Developed by [**TernuxP**J]
+👨‍💻 Developed by [**TernuxPJ**]
 
 **License:**
 
