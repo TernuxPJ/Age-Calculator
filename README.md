@@ -38,13 +38,6 @@ pip install tkinter
 pip install JalaliDate
 pip install khayyam
 ```
-**How to Run:**
-
-Download or clone the repository:
-```
-git clone https://github.com/yourusername/exact-age-calculator.git
-cd exact-age-calculator
-```
 
 **Run the main.py file:**
 
