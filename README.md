@@ -20,7 +20,12 @@ To run this project, you need Python and the following libraries installed:
 pip install tk
 pip install khayyam
 ```
-
+OR
+```
+pip install tkinter
+pip install JalaliDate
+pip install khayyam
+```
 **How to Run:**
 
 Download or clone the repository:
