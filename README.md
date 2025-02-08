@@ -6,12 +6,24 @@ This project is a simple graphical application using Tkinter in Python that calc
 
 Features
 
-✅ Accurate age calculation in years, months, days, and seconds\n
-✅ Supports both Gregorian and Jalali dates\n
-✅ Beautiful and user-friendly Tkinter GUI\n
-✅ Cute alert messages with engaging effects\n
-✅ Interactive and stylish buttons\n
-✅ Option to exit the program\n
+✅ Accurate age calculation in years, months, days, and seconds
+
+
+✅ Supports both Gregorian and Jalali dates
+
+
+✅ Beautiful and user-friendly Tkinter GUI
+
+
+✅ Cute alert messages with engaging effects
+
+
+✅ Interactive and stylish buttons
+
+
+✅ Option to exit the program
+
+
 
 **Prerequisites:**
 
