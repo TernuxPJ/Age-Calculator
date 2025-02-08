@@ -4,7 +4,7 @@ Project Description
 
 This project is a simple graphical application using Tkinter in Python that calculates the exact age of a user based on their birthdate and the current date. It also supports both Gregorian and Jalali calendars using the khayyam library for date conversion.
 
-Features
+**Features:**
 
 ✅ Accurate age calculation in years, months, days, and seconds
 
@@ -33,11 +33,11 @@ pip install tk
 pip install khayyam
 ```
 OR
-```
+`
 pip install tkinter
 pip install JalaliDate
 pip install khayyam
-```
+`
 **How to Run:**
 
 Download or clone the repository:
