@@ -1,4 +1,4 @@
-******_Exact Age Calculator_******
+******_Exact Age Calculator:_******
 
 Project Description
 
@@ -37,9 +37,8 @@ python main.py
 **Project Structure:**
 ```
 📂 exact-age-calculator
- ├── 📄 main.py             # Main application code
+ ├── 📄 CodeProject            # Private
  ├── 📄 README.md           # Project documentation
- └── 📄 requirements.txt    # Project dependencies
 ```
 **How to Use:**
 
