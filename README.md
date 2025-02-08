@@ -50,8 +50,9 @@ python main.py
 
 **Project Structure:**
 ```
-📂 exact-age-calculator
- ├── 📄 CodeProject            # Private
+📂 Age-Calculator-main
+ ├── 📄 Age_Calculator.py            # Codes
+ ├── 📄 CodeProject            # Go To Age_Calculator.py
  ├── 📄 README.md           # Project documentation
 ```
 **How to Use:**
